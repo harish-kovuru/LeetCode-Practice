@@ -123,4 +123,20 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Array
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
