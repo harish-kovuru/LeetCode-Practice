@@ -108,3 +108,19 @@ npm run lint-test     Test all code is linted properly
 ```
 
 #### And that should be it! Get Hacking...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+<!---LeetCode Topics End-->
