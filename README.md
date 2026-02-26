@@ -131,6 +131,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Sorting
 |  |
 | ------- |
@@ -139,4 +140,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Simulation
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
