@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Bit Manipulation
@@ -57,9 +58,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Backtracking
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/harish-kovuru/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
